@@ -1,1 +1,2 @@
 this is a huday.txt file.This is my first commit.
+bug fixed
